@@ -3,7 +3,7 @@
 <p align="center">
 <b>DIY rover/robot platform for performing simulated missions and code testing</b><br>
 <br>
-<img src="https://github.com/MKme/Mars-Rover/Pics/Capture.PNG"/>
+<img src="https://github.com/MKme/Mars-Rover/blob/master/Pics/Capture.PNG"/>
 This will be the home for the asembly and code on board the robot platform  <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
